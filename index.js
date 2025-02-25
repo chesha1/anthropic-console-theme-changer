@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Anthropic Console Theme Changer
-// @version      0.1.0
-// @description  将 Anthropic console 改回浅色模式 switch the Anthropic console to light mode
+// @version      0.1.1
+// @description  将 Anthropic Console 改回浅色模式 switch the Anthropic Console to light mode
 // @author       chesha1
 // @license      GPL-3.0-only
 // @match        https://console.anthropic.com/*
